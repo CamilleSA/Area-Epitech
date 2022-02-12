@@ -1,0 +1,63 @@
+version: "3.8"
+
+services:
+  database:
+    container_name: database
+    image: 'mysql:5.7'
+    environment:
+      MYSQL_ROOT_PASSWORD: mysql
+    command: --sql_mode="" --default-authentication-plugin=mysql_native_password
+    volumes:
+      - ./schema.sql:/docker-entrypoint-initdb.d/schema.sql
+      - db-data:/var/lib/mysql
+    restart: always
+    networks:
+      - back-tier
+
+  server:
+    container_name: server
+    build:
+      context: ./Server
+    environment:
+      PORT: 8080
+      DB_HOST: database
+      DB_PORT:
+      DB_USER: root
+      DB_PASSWORD: mysql
+      DB_DATABASE: area
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+    restart: on-failure
+    networks:
+      - back-tier
+
+  client_mobile:
+    container_name: client_mobile
+    build:
+      context: ./MobileClient
+    volumes:
+      - "clients-data:/clients_shared"
+
+  client_web:
+    container_name: client_web
+    build:
+      context: ./WebClient
+    environment:
+      PORT: 8081
+    ports:
+      - "8081:8081"
+    depends_on:
+      - server
+      - client_mobile
+    volumes:
+      - "clients-data:/clients_shared"
+
+networks:
+  back-tier:
+    driver: bridge
+
+volumes:
+  db-data:
+  clients-data:

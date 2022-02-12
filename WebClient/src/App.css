@@ -1,0 +1,91 @@
+
+
+.light-mode {
+  
+
+}
+
+.dark-mode {
+
+
+
+}
+
+.theme-dark {
+  --color-primary: #65a6fe;
+  --color-secondary: #5ee4df;
+  --color-accent: #fd6f53;
+  --font-color: #432c85;
+  --color-back-one: white;
+  --color-back-two: white;
+  --color-card-one: #65a6fe;
+  --color-card-two: #5ee4df;
+  
+  
+}
+.theme-light {
+  --color-primary: #31245b;
+  --color-secondary: black;
+  --color-accent: #12cdea;
+  --font-color: #ffffff;
+  --color-back-one: #31245b;
+  --color-card-one: #302365;
+  --color-card-two: black;
+
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  color: #5ee2df;
+  background-color: var(--color-secondary);
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px black;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #432c85;
+  border-radius: 10px;
+  color: #432c85;
+}
+

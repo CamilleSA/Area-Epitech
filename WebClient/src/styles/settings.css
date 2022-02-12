@@ -1,0 +1,545 @@
+.cardu {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; 
+    width: 800px;
+    margin-left: 560px;
+    margin-top: 10px;
+    color:   var(--font-color);
+    background-image: linear-gradient(var(--color-card-one), var(--color-card-two));
+    margin-bottom: 50px;
+  
+}
+
+.city-input {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 200px;
+  margin-left: 250px;
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+
+.city-input::placeholder {
+  text-align: center;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    margin-left: 720px;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-right: 20px;
+
+}
+  
+  /* Tooltip text */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 320px;
+    
+    background-image: linear-gradient(var(--color-card-one), var(--color-card-two));
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+   
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+
+.tryte{
+    background-color: #65a6fe;
+    padding: 1rem;
+    width: 350px;
+    border-radius: 2rem;
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 780px;
+    margin-bottom: 10px;
+  }
+
+.tryte a:link {
+  text-decoration: none;
+  color: white;
+}
+
+.tryte a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+
+.tryte a:hover {
+  text-decoration: none;
+  color: #432c85;
+}
+
+
+  
+
+.plus {
+    color: #65a6fe;
+    font-size: 50px;
+    margin-left: 925px;
+}
+
+.youtube-bten {
+  background-color: #e02a26;
+  padding: 1rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 210px;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+  margin-left: 275px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.weather-bten {
+  background-color: #267fef;
+  padding: 1rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 210px;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+  margin-left: 275px;
+  margin-bottom: 20px;
+  font-weight: bold;
+
+}
+
+
+.google-bten {
+  background-color: #cf4332;
+  padding: 1rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 220px;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+  margin-left: 270px;
+  margin-bottom: 20px;
+  font-weight: bold;
+
+}
+
+.reddit-bten {
+  background-color: #ff3f18;
+  padding: 1rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 220px;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+  margin-left: 275px;
+  margin-bottom: 20px;
+  font-weight: bold;
+
+}
+
+.github-bten {
+  background-color: black;
+  padding: 1rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 200px;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+  margin-left: 285px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.discord-bten {
+    background-color: #8a9cfe;
+    padding: 1rem;
+    border-radius: 2rem;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 1.1rem;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 212px;
+    box-shadow: 0 0 2rem rgba(0, 0, 255, 0.1);
+    margin-left: 275px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    outline: none;
+
+}
+
+.discord-bten a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.discord-bten a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.action {
+    font-weight: normal;
+    font-size: 19px;
+    margin-top: -70px;
+    margin-left: 90px;
+    margin-bottom: 18px;
+}
+
+.input-server {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #8a9cfe;
+  color: white;
+  font-weight: bold;
+  margin-left: 14px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+
+}
+
+.input-mail {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #cf4332;
+  color: white;
+  font-weight: bold;
+  margin-left: 14px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+
+.input-pornhub {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgb(253, 152, 0);
+  width: 20%;
+  height: 10px;
+  background-color: black;
+  color: #fd9800;
+  font-weight: bold;
+  margin-left: 280px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+
+}
+
+.input-spotify {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #1dc257;
+  color: black;
+  font-weight: bold;
+  margin-left: 280px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+
+}
+
+
+.input-youtube {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 45px;
+  font-size: 1rem;
+  margin-left: 280px;
+}
+.input-github {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-left: 285px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+  text-align: center;
+}
+.areas  h1{
+  color:   var(--font-color) !important;
+  font-size: 45px;
+  letter-spacing: 1.25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -90px;
+  text-align: center;
+}
+
+.input-branch {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-left: 160px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+.input-reddit {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #ff3f18;
+  color: white;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+.input-branech {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-left: 35px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+.input-branche {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+
+.input-message {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #8a9cfe;
+  color: white;
+  font-weight: bold;
+  margin-left: 150px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+
+}
+
+.input-label {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: 0 0 2rem rgba(0, 0, 255, 0.3);
+  width: 20%;
+  height: 10px;
+  background-color: #cf4332;
+  color: white;
+  font-weight: bold;
+  margin-left: 270px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+  font-size: 1rem;
+}
+
+.input-server::placeholder {
+  color: white;
+  text-align: center;
+}
+.input-pornhub::placeholder {
+  color: #fd9800;
+  text-align: center;
+}
+.input-youtube::placeholder {
+  color: white;
+  text-align: center;
+}
+.input-reddit::placeholder {
+  color: white;
+  text-align: center;
+}
+.input-branche::placeholder {
+  color: white;
+  text-align: center;
+}
+.input-branech::placeholder {
+  color: white;
+  text-align: center;
+}
+.input-branch::placeholder {
+  color: white;
+  text-align: center;
+}
+
+
+.input-github::placeholder {
+  color: white;
+  text-align: center;
+}
+
+.input-label::placeholder {
+  color: white;
+  text-align: center;
+}
+
+.input-mail::placeholder {
+  color: white;
+  text-align: center;
+}
+
+.input-spotify::placeholder {
+  color: black;
+  text-align: center;
+}
+
+.input-message::placeholder {
+  color: white;
+  text-align: center;
+}
+
+.account {
+  font-size: 26px;
+  text-align: center;
+}
+
+.account1 {
+  font-size: 26px;
+text-align: center;}
+
+.trigger {
+    margin-top: -10px;
+    margin-left: 90px;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.gmaile {
+    margin-right: 20px;
+    margin-top: -40px;
+    margin-left: 10px;
+    outline: 10;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 5%;
+  }
+
+.mid-dashboard {
+    margin-top:20px;
+}
