@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/MADE%20WITH-FLUTTER-blue" /></a>
 
 <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/video.gif" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/video.gif" />
 </p>
 
 >The goal of this project is to discover, as a whole, the software platform that you have chosen (Java, .NET,node.js) through the creation of a business application. To do this, you must implement a software suite that functions similar to that of IFTTT and/or Zapier.
@@ -16,118 +16,118 @@
 # Tutorial Front-End Web
 
 ## 0- Register
-![SignUp](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignUp.png)
+![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignUp.png)
 
 ## 1- Login
 
-![SignIn](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignIn.png)
+![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignIn.png)
 
 ## 2- Welcome to Area
 
-![Dashboard](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurDashboard.png)
+![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurDashboard.png)
 
 ## 3- Choose Applications
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseApp.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseApp.png)
 
 ## 4- Choose Action
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseAction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseAction.png)
 
 ## 5- Choose Reaction
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseReaction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseReaction.png)
 
 ## 6- Click on Make Area !
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurMakeArea.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurMakeArea.png)
 
 
 ## 7- Connect on your Action
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectAction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectAction.png)
 
 
 ## 8- Connect on your Reaction
 
-![Applicati](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectReaction.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectReaction.png)
 
 ## 9- Click on Make Area !
 
-![Applicati](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/src/media/Screens/OrdinateurClickMakeArea.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurClickMakeArea.png)
 
 ## 10- Confirm your Area
 
-![Confirm](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/Screens/ConfirmArea.png)
+![Confirm](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ConfirmArea.png)
 
 ## 11- You can modify / stop / delete your Area
 
-![Modify](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/Screens/OptionArea.png)
+![Modify](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/OptionArea.png)
 
 
 ## 12- Option Dark Mode
 
-![DarkMode](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/Screens/ModeDark.png)
+![DarkMode](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ModeDark.png)
 
 
 ## 13- Chat Bot
 
-![ChatBot](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/Screens/ChatBot.png)
+![ChatBot](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ChatBot.png)
 
 # Tutorial Front-End Mobile
 ## 0- Register
-![SignUp](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/register-screen.png)
+![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/register-screen.png)
 
 ## 1- Login
 
-![SignIn](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/login-screen.png)
+![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/login-screen.png)
 
 ## 2- Welcome to Area
 
-![Dashboard](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/dashboard-screen.png)
+![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/dashboard-screen.png)
 
 ## 3- Choose Action service
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/first_service-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/first_service-screen.png)
 
 ## 4- Choose Reaction service
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/second_service-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/second_service-screen.png)
 
 ## 5- Choose Action
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/action-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/action-screen.png)
 
 ## 6- Choose Reaction
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/reaction-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/reaction-screen.png)
 
 ## 7- Click on Make it !
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/make_it-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/make_it-screen.png)
 
 
 ## 8- Config your Action & Reaction
 
-![Application](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/setting-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/setting-screen.png)
 
 
 ## 9- Click on Make Area !
 
-![Applicati](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/make_area-screen.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/make_area-screen.png)
 
 ## Index
-![Index](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/manage-screen.png)
-![Index](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/dashboard-screen%20.png)
-![Index](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/areaList-screen.png)
-![Index](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/MobileClient/area_app/asset/Accountsetting-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/manage-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/dashboard-screen%20.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/areaList-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/Accountsetting-screen.png)
 <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/Screens/DarkMobile.png" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/DarkMobile.png" />
 </p>
 
 # Installation Project Area
 <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/Docker.png" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Docker.png" />
 </p>
 
 
@@ -151,7 +151,7 @@ docker-compose up
 # Documentation Front-End Web
 
 <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/front-app-web/WebClient/public/logo-react-js.png" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/public/logo-react-js.png" />
 </p>
 
 ## User Interface - ReactJS
@@ -213,7 +213,7 @@ You will also see any lint errors in the console.
 # Documentation Front-End Mobile
 
 <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/Flutter.jpg" width="450px"/>
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Flutter.jpg" width="450px"/>
 </p>
 
 ## User Interface - Flutter
@@ -233,7 +233,7 @@ You will also see any lint errors in the console.
 ## Build && Run the app
 
 * **1 - Locate the main Android Studio toolbar:**
-![FlutterSchema](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/SchemaFlutter.png)
+![FlutterSchema](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/SchemaFlutter.png)
 
 * **2 - In the target selector, select an Android device for running the app. If none are listed as available, select Tools> Android > AVD Manager and create one there. For details, see Managing AVDs.**
 
@@ -241,7 +241,7 @@ You will also see any lint errors in the console.
 
 * **After the app build completes, you’ll see the starter app on your device.**
  <p align="center">
-  <img src="https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/FlutterMob.png"/>
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/FlutterMob.png"/>
 </p>
 
 ## Other Method
@@ -307,7 +307,7 @@ Open http://localhost:8081/client.apk to download the app.
 
 # Documentation Back-End
 ## Express
-![ExpressLogo](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/Express.png)
+![ExpressLogo](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Express.png)
 
 >Fast, unopinionated, minimalist web framework for node.
 
@@ -656,36 +656,36 @@ $ npm start
 # UML
 
 ## UML Area
-![UMLArea](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Area.png)
+![UMLArea](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Area.png)
 
 ## UML Services
 
 **Gmail**
-![UMLGmail](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Gmail.png)
+![UMLGmail](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Gmail.png)
 
 **Github**
-![UMLGithub](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Github.png)
+![UMLGithub](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Github.png)
 
 **Discord**
-![UMLDiscord](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Discord.png)
+![UMLDiscord](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Discord.png)
 
 **Reddit**
-![UMLReddit](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Reddit.png)
+![UMLReddit](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Reddit.png)
 
 **Weather**
-![UMLWeather](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Weather.png)
+![UMLWeather](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Weather.png)
 
 **Youtube**
-![UMLYoutube](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Service_Youtube.png)
+![UMLYoutube](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Service_Youtube.png)
 
 **Spotify**
-![UMLSpotify](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/dev/WebClient/src/media/UML/UML_Service_Spotify.png)
+![UMLSpotify](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/UML/UML_Service_Spotify.png)
 
 ## UML Authentication
-![UMLAuth](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Authentication.png)
+![UMLAuth](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Authentication.png)
 
 ## UML Responses
-![UMLResponses](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_Responses.png)
+![UMLResponses](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_Responses.png)
 # API
 
 * **Gmail** => https://developers.google.com/gmail/api
@@ -698,7 +698,7 @@ $ npm start
 
 # Gitflow
 
-![UMLGitFlow](https://github.com/EpitechIT2020/B-YEP-500-PAR-5-1-area-angelina.colas/blob/master/WebClient/src/media/UML/UML_GITFLOW.png)
+![UMLGitFlow](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/UML/UML_GITFLOW.png)
 
 # Norme Commit
 
