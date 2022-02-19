@@ -16,113 +16,113 @@
 # Tutorial Front-End Web
 
 ## 0- Register
-![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignUp.png)
+![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurSignUp.png)
 
 ## 1- Login
 
-![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurSignIn.png)
+![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurSignIn.png)
 
 ## 2- Welcome to Area
 
-![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurDashboard.png)
+![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurDashboard.png)
 
 ## 3- Choose Applications
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseApp.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurChooseApp.png)
 
 ## 4- Choose Action
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseAction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurChooseAction.png)
 
 ## 5- Choose Reaction
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurChooseReaction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurChooseReaction.png)
 
 ## 6- Click on Make Area !
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurMakeArea.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurMakeArea.png)
 
 
 ## 7- Connect on your Action
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectAction.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurConnectAction.png)
 
 
 ## 8- Connect on your Reaction
 
-![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurConnectReaction.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurConnectReaction.png)
 
 ## 9- Click on Make Area !
 
-![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/src/media/Screens/OrdinateurClickMakeArea.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OrdinateurClickMakeArea.png)
 
 ## 10- Confirm your Area
 
-![Confirm](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ConfirmArea.png)
+![Confirm](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/ConfirmArea.png)
 
 ## 11- You can modify / stop / delete your Area
 
-![Modify](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/OptionArea.png)
+![Modify](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/OptionArea.png)
 
 
 ## 12- Option Dark Mode
 
-![DarkMode](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ModeDark.png)
+![DarkMode](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/ModeDark.png)
 
 
 ## 13- Chat Bot
 
-![ChatBot](https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/ChatBot.png)
+![ChatBot](https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/ChatBot.png)
 
 # Tutorial Front-End Mobile
 ## 0- Register
-![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/register-screen.png)
+![SignUp](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/register-screen.png)
 
 ## 1- Login
 
-![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/login-screen.png)
+![SignIn](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/login-screen.png)
 
 ## 2- Welcome to Area
 
-![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/dashboard-screen.png)
+![Dashboard](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/dashboard-screen.png)
 
 ## 3- Choose Action service
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/first_service-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/first_service-screen.png)
 
 ## 4- Choose Reaction service
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/second_service-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/second_service-screen.png)
 
 ## 5- Choose Action
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/action-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/action-screen.png)
 
 ## 6- Choose Reaction
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/reaction-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/reaction-screen.png)
 
 ## 7- Click on Make it !
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/make_it-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/make_it-screen.png)
 
 
 ## 8- Config your Action & Reaction
 
-![Application](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/setting-screen.png)
+![Application](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/setting-screen.png)
 
 
 ## 9- Click on Make Area !
 
-![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/make_area-screen.png)
+![Applicati](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/make_area-screen.png)
 
 ## Index
-![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/manage-screen.png)
-![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/dashboard-screen%20.png)
-![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/areaList-screen.png)
-![Index](https://github.com/CamilleSA/Area-Epitech/blob/dev/MobileClient/area_app/asset/Accountsetting-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/manage-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/dashboard-screen%20.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/areaList-screen.png)
+![Index](https://github.com/CamilleSA/Area-Epitech/blob/master/MobileClient/area_app/asset/Accountsetting-screen.png)
 <p align="center">
-  <img src="https://github.com/CamilleSA/Area-Epitech/blob/dev/WebClient/src/media/Screens/DarkMobile.png" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/src/media/Screens/DarkMobile.png" />
 </p>
 
 # Installation Project Area
@@ -151,7 +151,7 @@ docker-compose up
 # Documentation Front-End Web
 
 <p align="center">
-  <img src="https://github.com/CamilleSA/Area-Epitech/blob/front-app-web/WebClient/public/logo-react-js.png" />
+  <img src="https://github.com/CamilleSA/Area-Epitech/blob/master/WebClient/public/logo-react-js.png" />
 </p>
 
 ## User Interface - ReactJS
